@@ -1,4 +1,4 @@
-#  ACMTOIS2023: ITV for Text-to-Video Retrieval-Ad-hoc video search
+#  ACMTOIS2023: ITV for Text-to-Video Retrieval (Ad-hoc video search_
 
 This is the official source code of our ITV paper: [(Un)likelihood Training for Interpretable Embedding](https://arxiv.org/abs/2207.00282).
 
